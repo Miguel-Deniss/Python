@@ -7,5 +7,5 @@ Escrever o que eu quiser
 
 """
 
-''' Usar paa escrever suas notas '''
+''' Usar para escrever suas notas '''
 print('123')
