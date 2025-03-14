@@ -15,3 +15,6 @@ exponenciacao = 12**2
 print('exponenciacao:', exponenciacao)
 modulo = 55 % 2 #resto da divisão
 print('Modulo:', modulo)
+
+print(10 % 8 == 0)
+print(16 % 8 == 0)
