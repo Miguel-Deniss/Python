@@ -1,7 +1,7 @@
 nome = 'Miguel'
 sobrenome = 'Denisovas'
 idade = 15
-data_de_nascimento = 2025 - idade 
+data_de_nascimento = 2025 - idade
 maior_de_idade = idade >= 18
 altura = 1.77
 
