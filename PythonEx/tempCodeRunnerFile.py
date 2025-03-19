@@ -1,1 +1,1 @@
-print(formato)
+1
