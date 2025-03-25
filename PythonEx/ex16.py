@@ -13,3 +13,4 @@ elif entrada == 'Sair':
 #terceira quando necessario
 else:
     print('Você não digitou nenhuma das opções acima')
+    
